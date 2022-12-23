@@ -1,22 +1,6 @@
 {
-    "uid": 11603,
-    "mobile": "172****1333",
-    "order": {
-        "address": {
-            "province": "上海市",
-            "city": "海市",
-            "distict": "浦东新区",
-            "line": "广兰路地铁站1号口"
-        },
-        "items": [
-            {
-                "itemId": 123,
-                "itemName": "无人机1"
-            },
-            {
-                "itemId": 124,
-                "itemName": "无人机2"
-            }
-        ]
+    "cat test.txt": {
+        "'Company_3g'": "ZTEMT"
+        
     }
 }

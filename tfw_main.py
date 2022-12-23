@@ -62,7 +62,7 @@ else:
                             print(40*'-')
                             exec_one_json(json)
                         except:
-                            print(" json文件格式出现错误")
+                            print("json file format error!")
     
     elif os.path.isfile(sys.argv[1]):  # 查找为文件则直接处理
         exec_one_json(sys.argv[1])
