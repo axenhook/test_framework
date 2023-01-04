@@ -1,6 +1,7 @@
 {
     "cat test.txt": {
-        "'Company_3g'": "ZTEMT"
+        "'Company_3g'": "ZTEMT",
+        "'modelOf3g'": "ZTEMT"
         
     }
 }
